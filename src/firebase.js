@@ -4,14 +4,14 @@ import 'firebase/firestore';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCdr9H2msRQGwxoUeOv1qaPjR8uGuxLWaE",
-  authDomain: "chat-apk-a7861.firebaseapp.com",
-  projectId: "chat-apk-a7861",
-  storageBucket: "chat-apk-a7861.appspot.com",
-  messagingSenderId: "834794297650",
-  appId: "1:834794297650:web:ed58940c70944339379f2b",
-  measurementId: "G-C461C1PS3W"
-  };
+  apiKey: "AIzaSyCjZuFWFg2sKCI-dpxyF1OLIZlUkCDYVG0",
+  authDomain: "zomato-cfdfd.firebaseapp.com",
+  databaseURL: "https://zomato-cfdfd-default-rtdb.firebaseio.com",
+  projectId: "zomato-cfdfd",
+  storageBucket: "zomato-cfdfd.appspot.com",
+  messagingSenderId: "780756577902",
+  appId: "1:780756577902:web:6dbc0f5e4e9536099b407f"
+};
   
   firebase.initializeApp(firebaseConfig);
   
